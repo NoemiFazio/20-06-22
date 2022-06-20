@@ -50,8 +50,6 @@ function div(numOne, numTwo) {
 }
 div(6, 3);
 
-// Scriviamo una funzione che possa eseguire le 4 precedenti
-
 const calculator = function (operation, numOne, numTwo) {
   operation(numOne, numTwo);
 };
