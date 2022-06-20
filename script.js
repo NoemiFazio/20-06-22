@@ -56,7 +56,7 @@ const calculator = function (operation, numOne, numTwo) {
   operation(numOne, numTwo);
 };
 
-calculator(sumTwo, 3, 3); // per stampare l'addizione
-calculator(sottr, 1, 3); // per stampare la sottrazione
-calculator(molt, 1, 3); // per stampare la moltiplicazione
-calculator(div, 1, 3); // per stampare la divisione
+calculator(sumTwo, 2, 6);
+calculator(sottr, 4, 2);
+calculator(molt, 5, 4);
+calculator(div, 6, 3);
